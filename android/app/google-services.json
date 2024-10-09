@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "868007322820",
+    "project_id": "finealflutter",
+    "storage_bucket": "finealflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868007322820:android:61e8ecc2499b8ff7cc9591",
+        "android_client_info": {
+          "package_name": "com.example.final_exam_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMoKHq2jsNi2wyUgh07Q2EgN2m6qsPfpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
